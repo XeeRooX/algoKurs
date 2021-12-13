@@ -1,0 +1,4 @@
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\Debug\AlgoKursach.vcxprojAssemblyReference.cache
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\Debug\AlgoKursach.MyForm.resources
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\Debug\AlgoKursach.vcxproj.GenerateResource.cache
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\Debug\AlgoKursach.MsgWin.resources

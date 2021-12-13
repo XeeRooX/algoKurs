@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(45,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(36,11): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(155,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(392,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(593,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(684,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(717,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(769,53): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\ПК\source\repos\AlgoKursach\AlgoKursach\MyForm.cpp(540): warning C4715: AlgoKursach::MyForm::IsCorrectTime: значение возвращается не при всех путях выполнения
+  MsgWin.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  AlgoKursach.vcxproj -> C:\Users\ПК\source\repos\AlgoKursach\Debug\AlgoKursach.exe
